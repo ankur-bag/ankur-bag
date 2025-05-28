@@ -1,3 +1,7 @@
+![Purple and Black Simple Graphics Creative Business LinkedIn Background Photo](https://github.com/user-attachments/assets/7ccec8bf-1e50-46ec-ae1a-d0a403444ed4)
+
+
+
 Ankur Bag,
 🌍 West Bengal, India | 🎓 1st Year B.Tech Student (Information Technology) at RCC Institute of Information Technology
 
