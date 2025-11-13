@@ -3,7 +3,7 @@
 
 
 Ankur Bag,
-🌍 West Bengal, India | 🎓 1st Year B.Tech Student (Information Technology) at RCC Institute of Information Technology
+🌍 West Bengal, India | 🎓 2nd Year B.Tech Student (Information Technology) at RCC Institute of Information Technology
 
 I am a technology enthusiast with a creative flair, passionate about exploring the artistic side of tech through logo designing and innovative projects. By combining technical expertise with creativity, I approach challenges with fresh perspectives and develop unique solutions. 
 
