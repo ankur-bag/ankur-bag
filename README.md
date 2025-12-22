@@ -20,10 +20,9 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
 ![](https://nirzak-streak-stats.vercel.app/?user=ankur-bag&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur-bag&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fankur-bag&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 
 
-<
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
