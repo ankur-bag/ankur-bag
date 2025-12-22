@@ -19,9 +19,6 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fankur-bag&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
-![Snake](https://raw.githubusercontent.com/ankur-bag/ankur-bag/output/github-contribution-grid-snake-dark.svg)
 
-
-![Metrics](https://metrics.lecoq.io/ankur-bag?template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&plugin_activity=1&plugin_activity_limit=5&plugin_activity_days=0&plugin_activity_filter=all&config.theme=github_dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
