@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT<br>🎓Sophomore @ RCCIIT<br><br>Tech-focused developer working on modern web development, backend systems, and exploring AI/ML. Building real projects and consistently improving to become a strong full-stack engineer. Open to internships and collaborative opportunities.
+Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC Tech Team <br>🎓Sophomore @ RCCIIT<br><br>Tech-focused developer working on modern web development, backend systems, and exploring AI/ML. Building real projects and consistently improving to become a strong full-stack engineer. Open to internships and collaborative opportunities.
 
 
 ## 🌐 Socials:
