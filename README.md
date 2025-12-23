@@ -9,7 +9,7 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coxmos.co) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-bag-017664314/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurbag700@gmail.com) 
 
-![Profile Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fankur-bag&icon=github&color=%23198754&style=flat&tz=UTC)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fankur-bag&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 # 💻 Tech Stack
 
