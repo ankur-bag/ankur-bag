@@ -4,16 +4,16 @@
 <h1 align="center">Hi 👋, I'm Ankur Bag</h1>
 Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC Tech Team<br>🎓Sophomore @ RCCIIT<br><br>Tech-focused developer working on modern web development, backend systems, and exploring AI/ML. Building real projects and consistently improving to become a strong full-stack engineer. Open to internships and collaborative opportunities.
 
-
-🌐 Portfolio: https://ankurbag.tech
-
 <p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350" />
 </p>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coxmos.co) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-bag-017664314/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurbag700@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://ankurbag.tech)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coxmos.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-bag-017664314/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurbag700@gmail.com)
 
 ![Profile views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fankur-bag&label=PROFILE%20VIEWS&icon=github&color=%23198754&style=flat&tz=UTC&show=total)
 
