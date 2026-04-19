@@ -74,6 +74,7 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
 ![](https://github-readme-stats.vercel.app/api?username=ankur-bag&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ankur-bag&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur-bag&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankur-bag&theme=transparent)
 
 
 
