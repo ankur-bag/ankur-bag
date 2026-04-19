@@ -59,9 +59,19 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
 ### 🎨 UI / Animation
 
 <p align="left">
+  <!-- Tailwind -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" width="40"/>
+
+  <!-- Framer (fixed) -->
+
+  <img src="https://cdn.simpleicons.org/framer/white" width="40"/>
+
+  <!-- GSAP (GreenSock) -->
+
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40"/>
+
+  <!-- Three.js -->
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40"/>
 </p>
 
@@ -70,11 +80,22 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
 ### 🧰 Tools
 
 <p align="left">
+  <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+
+  <!-- GitHub -->
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+
+  <!-- Vercel -->
+
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="40"/>
+
+  <!-- Render (fixed) -->
+
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/>
 </p>
+
 
 ---
 
