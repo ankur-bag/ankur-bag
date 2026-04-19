@@ -105,7 +105,7 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40"/>
 </p>
 
 
