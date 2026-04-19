@@ -29,7 +29,6 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
 </p>
 
----
 
 ### 🌐 Web & Backend
 
@@ -44,7 +43,6 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
 </p>
 
----
 
 ### 🗄️ Database & Cloud
 
@@ -54,7 +52,6 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
 </p>
 
----
 
 ### 🎨 UI / Animation
 
@@ -75,7 +72,6 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40"/>
 </p>
 
----
 
 ### 🧰 Tools
 
@@ -96,8 +92,6 @@ Frontend Developer Intern @ Resourcio | Web Associate @ GDGoC RCCIIT| Dev @SWC T
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/>
 </p>
 
-
----
 
 ### 📊 Data & Design
 
