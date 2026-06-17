@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ankur Bag</h1>
-GSSoC’26 | Winner @ACM India East/NE UPC 2026 | ex-Intern @Resourcio | Sophomore, IT @RCCIIT | 8x Hackathon Winner | Web Associate @GDGoC  RCCIIT | Dev @SWC Tech Team | MERN Stack | Next.js | GenAI
+GSSoC’26 | Top 106 globally at Google Solution Challenge 2026 Winner | @ACM India East/NE UPC 2026 | ex-Intern @Resourcio | Sophomore, IT @RCCIIT | 8x Hackathon Winner | Web Associate @GDGoC  RCCIIT | Dev @SWC Tech Team | MERN Stack | Next.js | GenAI
 
 <p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350" />
