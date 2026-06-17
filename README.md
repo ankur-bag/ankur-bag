@@ -2,7 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Ankur Bag</h1>
-GSSoC’26 | Top 106 globally at Google Solution Challenge 2026 | Winner@ACM India East/NE UPC 2026 | ex-Intern @Resourcio | Sophomore, IT @RCCIIT | 8x Hackathon Winner | Web Associate @GDGoC  RCCIIT | Dev @SWC Tech Team | MERN Stack | Next.js | GenAI
+A Full-Stack Developer and sophomore pursuing a Bachelor of Technology in Information Technology at RCC Institute of Information Technology, specializing in GenAI-powered web applications, scalable backend systems, and modern frontend engineering. Skilled in building high-performance products using React, Next.js, Node.js, MongoDB, PostgreSQL, LangChain, LangGraph, Pinecone, and AI-driven workflows.
+
+Currently contributing as a Web Associate at GDG on Campus RCCIIT, developing responsive web experiences and collaborating on technical initiatives and community-driven projects. Experienced in building production-style applications through hackathons, startup-focused projects, and competitive development environments, with strong expertise in API integrations, RAG pipelines, AI automation, and interactive UI systems using technologies like Framer Motion and Three.js.
+
+Recognized through multiple national-level hackathon achievements, including being among the Top 106 teams in the Google Solution Challenge – Build with AI 2026. Passionate about full-stack development, Agentic AI systems, and creating fast, scalable, user-centric digital products while continuously expanding expertise through hands-on engineering and collaborative innovation.
 
 <p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350" />
