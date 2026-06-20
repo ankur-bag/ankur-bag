@@ -2,11 +2,29 @@
 
 
 <h1 align="center">Hi 👋, I'm Ankur Bag</h1>
-A Full-Stack Developer and sophomore pursuing a Bachelor of Technology in Information Technology at RCC Institute of Information Technology, specializing in GenAI-powered web applications, scalable backend systems, and modern frontend engineering. Skilled in building high-performance products using React, Next.js, Node.js, MongoDB, PostgreSQL, LangChain, LangGraph, Pinecone, and AI-driven workflows.
+I'm a Full-Stack Developer and sophomore pursuing a B.Tech in Information Technology at **RCC Institute of Information Technology**, specializing in GenAI-powered web applications, scalable backend systems, and modern frontend engineering.
 
-Currently contributing as a Web Associate at GDG on Campus RCCIIT, developing responsive web experiences and collaborating on technical initiatives and community-driven projects. Experienced in building production-style applications through hackathons, startup-focused projects, and competitive development environments, with strong expertise in API integrations, RAG pipelines, AI automation, and interactive UI systems using technologies like Framer Motion and Three.js.
+**Currently working with:**
+React, Next.js, Node.js, MongoDB, PostgreSQL
 
-Recognized through multiple national-level hackathon achievements, including being among the Top 106 teams in the Google Solution Challenge – Build with AI 2026. Passionate about full-stack development, Agentic AI systems, and creating fast, scalable, user-centric digital products while continuously expanding expertise through hands-on engineering and collaborative innovation.
+**Exploring:**
+Agentic AI systems — LangChain, LangGraph, Pinecone, and RAG pipelines
+
+**Also building with:**
+Framer Motion and Three.js for interactive UI systems
+
+**Role:**
+Web Associate @ GDG on Campus RCCIIT — building responsive web experiences and contributing to community-driven tech initiatives
+
+**Achievements:**
+- Top 106 teams — Google Solution Challenge: Build with AI 2026
+- Multiple national-level hackathon recognitions through production-style builds
+
+---
+
+Always learning, always building — focused on creating fast, scalable, and user-centric digital products.
+
+**Let's connect** — open to collaborations on full-stack and AI-driven projects.
 
 <p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350" />
