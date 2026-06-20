@@ -5,16 +5,13 @@
 I'm a Full-Stack Developer and sophomore pursuing a B.Tech in Information Technology at **RCC Institute of Information Technology**, specializing in GenAI-powered web applications, scalable backend systems, and modern frontend engineering.
 
 **Currently working with:**
-React, Next.js, Node.js, MongoDB, PostgreSQL
+React, Next.js, Node.js, MongoDB, PostgreSQL , AWS
 
 **Exploring:**
-Agentic AI systems — LangChain, LangGraph, Pinecone, and RAG pipelines
+Agentic AI systems — LangChain, LangGraph, Pinecone, Deep Agents and RAG pipelines
 
 **Also building with:**
 Framer Motion and Three.js for interactive UI systems
-
-**Role:**
-Web Associate @ GDG on Campus RCCIIT — building responsive web experiences and contributing to community-driven tech initiatives
 
 **Achievements:**
 - Top 106 teams — Google Solution Challenge: Build with AI 2026
