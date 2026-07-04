@@ -77,16 +77,9 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 ---
 
-## 🗄️ Databases & Vector Stores
+🗄️ Databases & Vector Stores
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" alt="Supabase"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis"/>
-  <img src="https://cdn.simpleicons.org/pinecone/000000" width="40" alt="Pinecone"/>
-</p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/> <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" alt="Supabase"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis"/> <img src="https://img.shields.io/badge/Pinecone-0B3B2E?style=for-the-badge&logo=pinecone&logoColor=white" height="32" alt="Pinecone"/> </p>
 
 ---
 
