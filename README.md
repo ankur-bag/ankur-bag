@@ -38,94 +38,117 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 # 💻 Tech Stack
 
-### 🧠 Languages
+## 🧠 Languages
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
 </p>
 
+---
 
-### 🌐 Web & Backend
+## 🌐 Frontend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/socketdotio/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" alt="Sass"/>
 </p>
 
+---
 
-### 🗄️ Database & Cloud
+## ⚙️ Backend & APIs
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" width="40" alt="Socket.io"/>
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="40" alt="JWT"/>
 </p>
 
+---
 
-### 🎨 UI / Animation
+## 🗄️ Databases & Vector Stores
 
 <p align="left">
-  <!-- Tailwind -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-
-  <!-- Framer (fixed) -->
-
-  <img src="https://cdn.simpleicons.org/framer/white" width="40"/>
-
-  <!-- GSAP (GreenSock) -->
-
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40"/>
-
-  <!-- Three.js -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/webgl/990000" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" alt="Supabase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+  <img src="https://cdn.simpleicons.org/pinecone/000000" width="40" alt="Pinecone"/>
 </p>
 
+---
 
-### 🧰 Tools
+## 🤖 AI / GenAI
 
 <p align="left">
-  <!-- Git -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-
-  <!-- GitHub -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-
-  <!-- Vercel -->
-
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>
-
-  <!-- Render (fixed) -->
-
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40"/>
+  <img src="https://cdn.simpleicons.org/openai/000000" width="40" alt="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" alt="Gemini"/>
+  <img src="https://cdn.simpleicons.org/anthropic/000000" width="40" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" alt="LangChain"/>
 </p>
 
+**Worked with:** RAG, LangChain, LangGraph, Pinecone, OpenRouter, Gemini, Prompt Engineering, Vector Search, AI Agents, LLM Workflows
 
-### 📊 Data & Design
+---
+
+## 🎨 UI / Animation / 3D
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/framer/000000" width="40" alt="Framer"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="40" alt="Framer Motion"/>
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="40" alt="GSAP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40" alt="Three.js"/>
+  <img src="https://cdn.simpleicons.org/webgl/990000" width="40" alt="WebGL"/>
 </p>
 
+---
+
+## ☁️ Cloud, Deployment & DevOps
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" alt="Render"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="Google Cloud"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
+</p>
+
+---
+
+## 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="Postman"/>
+  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40" alt="Cloudinary"/>
+  <img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40" alt="Razorpay"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" alt="Canva"/>
+</p>
+
+---
+
+## 📊 Data, Scraping & Automation
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/apify/97C93D" width="40" alt="Apify"/>
+  <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="40" alt="Puppeteer"/>
+</p>
+
+**Worked with:** Data Ingestion, Web Scraping, API Automation, Analytics Dashboards, PDF Parsing, Document Ingestion
 
 
 
