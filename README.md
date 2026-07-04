@@ -49,7 +49,7 @@ Always learning, always building — focused on creating fast, scalable, and use
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
 </p>
 
----
+
 
 ## 🌐 Frontend
 
@@ -62,7 +62,7 @@ Always learning, always building — focused on creating fast, scalable, and use
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" alt="Sass"/>
 </p>
 
----
+
 
 ## ⚙️ Backend & APIs
 
@@ -75,13 +75,13 @@ Always learning, always building — focused on creating fast, scalable, and use
   <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="40" alt="JWT"/>
 </p>
 
----
+
 
 🗄️ Databases & Vector Stores
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/> <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" alt="Supabase"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis"/> <img src="https://img.shields.io/badge/Pinecone-0B3B2E?style=for-the-badge&logo=pinecone&logoColor=white" height="32" alt="Pinecone"/> </p>
 
----
+
 
 ## 🤖 AI / GenAI
 
@@ -89,7 +89,7 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 **Worked with:** RAG, LangChain, LangGraph, Pinecone, OpenRouter, Gemini, Prompt Engineering, Vector Search, AI Agents, LLM Workflows
 
----
+
 
 ## 🎨 UI / Animation / 3D
 
@@ -101,7 +101,7 @@ Always learning, always building — focused on creating fast, scalable, and use
   <img src="https://cdn.simpleicons.org/webgl/990000" width="40" alt="WebGL"/>
 </p>
 
----
+
 
 ## ☁️ Cloud, Deployment & DevOps
 
@@ -114,13 +114,12 @@ Always learning, always building — focused on creating fast, scalable, and use
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
 </p>
 
----
+
 
 ## 🧰 Tools & Platforms
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/> <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="Postman"/> <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40" alt="Cloudinary"/> <img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40" alt="Razorpay"/> <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="32" alt="Canva"/> </p>
 
----
 
 ## 📊 Data, Scraping & Automation
 
