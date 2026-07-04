@@ -15,7 +15,7 @@ Framer Motion and Three.js for interactive UI systems
 
 **Achievements:**
 - Top 106 teams — Google Solution Challenge: Build with AI 2026
-- Multiple (9x) national-level hackathon recognitions through production-style builds
+- Multiple (9x) national and college level hackathon recognitions.
 
 ---
 
