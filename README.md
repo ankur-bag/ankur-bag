@@ -85,12 +85,7 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 ## 🤖 AI / GenAI
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openai/000000" width="40" alt="OpenAI"/>
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" alt="Gemini"/>
-  <img src="https://cdn.simpleicons.org/anthropic/000000" width="40" alt="Claude"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" alt="LangChain"/>
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="OpenAI"/> <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" alt="Gemini"/> <img src="https://cdn.simpleicons.org/anthropic/000000" width="40" alt="Claude"/> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" alt="LangChain"/> </p>
 
 **Worked with:** RAG, LangChain, LangGraph, Pinecone, OpenRouter, Gemini, Prompt Engineering, Vector Search, AI Agents, LLM Workflows
 
@@ -123,23 +118,13 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 ## 🧰 Tools & Platforms
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="Postman"/>
-  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40" alt="Cloudinary"/>
-  <img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40" alt="Razorpay"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" alt="Canva"/>
-</p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/> <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="Postman"/> <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40" alt="Cloudinary"/> <img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40" alt="Razorpay"/> <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="32" alt="Canva"/> </p>
 
 ---
 
 ## 📊 Data, Scraping & Automation
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/apify/97C93D" width="40" alt="Apify"/>
-  <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="40" alt="Puppeteer"/>
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/Apify-97C93D?style=for-the-badge&logo=apify&logoColor=white" height="32" alt="Apify"/> <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="40" alt="Puppeteer"/> </p>
 
 **Worked with:** Data Ingestion, Web Scraping, API Automation, Analytics Dashboards, PDF Parsing, Document Ingestion
 
