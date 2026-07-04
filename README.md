@@ -36,9 +36,9 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 ![Profile views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fankur-bag&label=PROFILE%20VIEWS&icon=github&color=%23198754&style=flat&tz=UTC&show=total)
 
-# 💻 Tech Stack
+#  Tech Stack
 
-## 🧠 Languages
+##  Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
@@ -51,7 +51,7 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 
 
-## 🌐 Frontend
+##  Frontend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -64,7 +64,7 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 
 
-## ⚙️ Backend & APIs
+##  Backend & APIs
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
@@ -77,13 +77,13 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 
 
-🗄️ Databases & Vector Stores
+## Databases & Vector Stores
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/> <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" alt="Supabase"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis"/> <img src="https://img.shields.io/badge/Pinecone-0B3B2E?style=for-the-badge&logo=pinecone&logoColor=white" height="32" alt="Pinecone"/> </p>
 
 
 
-## 🤖 AI / GenAI
+##  AI / GenAI
 
 <p align="left"> <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="OpenAI"/> <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" alt="Gemini"/> <img src="https://cdn.simpleicons.org/anthropic/000000" width="40" alt="Claude"/> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" alt="LangChain"/> </p>
 
@@ -91,7 +91,7 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 
 
-## 🎨 UI / Animation / 3D
+##  UI / Animation / 3D
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/framer/000000" width="40" alt="Framer"/>
@@ -116,12 +116,12 @@ Always learning, always building — focused on creating fast, scalable, and use
 
 
 
-## 🧰 Tools & Platforms
+##  Tools & Platforms
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/> <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="Postman"/> <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40" alt="Cloudinary"/> <img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40" alt="Razorpay"/> <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="32" alt="Canva"/> </p>
 
 
-## 📊 Data, Scraping & Automation
+##  Data, Scraping & Automation
 
 <p align="left"> <img src="https://img.shields.io/badge/Apify-97C93D?style=for-the-badge&logo=apify&logoColor=white" height="32" alt="Apify"/> <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="40" alt="Puppeteer"/> </p>
 
