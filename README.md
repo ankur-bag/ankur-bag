@@ -17,6 +17,8 @@ Framer Motion and Three.js for interactive UI systems
 - Top 106 teams — Google Solution Challenge: Build with AI 2026
 - Multiple (9x) national and college level hackathon recognitions.
 
+Mail: ankurbag700@gmail.com
+
 ---
 
 Always learning, always building — focused on creating fast, scalable, and user-centric digital products.
