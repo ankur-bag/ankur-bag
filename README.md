@@ -14,17 +14,14 @@ Agentic AI systems — LangChain, LangGraph, Pinecone, Deep Agents and RAG pipel
 Framer Motion and Three.js for interactive UI systems
 
 **Achievements:**
-• Top 106 Globally, Google Solution Challenge 2026 — Build with AI — Led Team Async among 85,000+ registrations.
-• Winner, ACM India East/North-East Undergraduate Project Contest 2026 Grand Finale
-• Winner, Best Startup Track, Synchronicity 2.0 (2026) — Jadavpur University.
-• Winner, Double Slash 4.0 — Top 30 among 300+ teams in a 36-hour offline hackathon.
-• Winner, Showcase X Techsprint — Led rapid prototyping and technical execution.
-• Best Beginner’s Team Track Winner, Hello World Hacks (S1) —Led my team to win the track.
-• Organizer & Speaker, Showcase X TechSprint 2025 Pre-Event — Trained 100+ participants in converting Figma
-designs into functional web interfaces through a hands-on design-to-code workshop.
-• Organizer & Instructor, All About Solution Challenge Ep2 — Mentored 150+ participants through an end-to-end
-full-stack development workshop using Google tools, helping them build functional prototypes for the Google Solution
-Challenge.
+- Top 106 Globally, Google Solution Challenge 2026 — Build with AI — Led Team Async among 85,000+ registrations.
+- Winner, ACM India East/North-East Undergraduate Project Contest 2026 Grand Finale
+- Winner, Best Startup Track, Synchronicity 2.0 (2026) — Jadavpur University.
+- Winner, Double Slash 4.0 — Top 30 among 300+ teams in a 36-hour offline hackathon.
+- Winner, Showcase X Techsprint — Led rapid prototyping and technical execution.
+- Best Beginner’s Team Track Winner, Hello World Hacks (S1) —Led my team to win the track.
+- Organizer & Speaker, Showcase X TechSprint 2025 Pre-Event — Trained 100+ participants in converting Figma designs into functional web interfaces through a hands-on design-to-code workshop.
+- Organizer & Instructor, All About Solution Challenge Ep2 — Mentored 150+ participants through an end-to-end full-stack development workshop using Google tools, helping them build functional prototypes for the Google Solution Challenge.
 
 Mail: ankurbag700@gmail.com
 
