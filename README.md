@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ankur Bag</h1>
-I'm a Full-Stack Developer and sophomore pursuing a B.Tech in Information Technology at RCC Institute of Information Technology, specializing in GenAI-powered web applications, scalable backend systems, and modern frontend engineering.
+I'm a Full-Stack Developer pursuing a B.Tech in Information Technology at RCC Institute of Information Technology (penultimate-Year), specializing in GenAI-powered web applications, scalable backend systems, and modern frontend engineering.
 
 **Currently working with:**
 React, Next.js, Node.js, MongoDB, PostgreSQL , AWS
